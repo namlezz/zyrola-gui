@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5"
+   name=""
+   committed-date="2012-09-28T08:27:08.104235Z"
+   url="https://megtv02/svn/simpack_toolbox/trunk/src/csv"
+   last-author="spaegele"
+   kind="dir"
+   uuid="90ff6884-bdb2-0c4a-af87-4aff7f087942"
+   repos="https://megtv02/svn/simpack_toolbox"
+   revision="252"/>
+<entry
+   committed-rev="5"
+   name="CSVParser.java"
+   text-time="2013-04-16T14:16:48.524680Z"
+   committed-date="2012-09-28T08:27:08.104235Z"
+   checksum="6314f50203a1524c24af7887063d7bf7"
+   last-author="spaegele"
+   kind="file"
+   prop-time="2013-04-16T14:16:48.514680Z"/>
+<entry
+   committed-rev="5"
+   name="CSVReader.java"
+   text-time="2013-04-16T14:16:48.528680Z"
+   committed-date="2012-09-28T08:27:08.104235Z"
+   checksum="91a2943ca0146a725730c7c66d2db5bc"
+   last-author="spaegele"
+   kind="file"
+   prop-time="2013-04-16T14:16:48.520680Z"/>
+</wc-entries>
